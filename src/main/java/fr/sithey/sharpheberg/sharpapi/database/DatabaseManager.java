@@ -5,4 +5,5 @@ public interface DatabaseManager {
     MongoDB getMongoDB();
 
     Redis getRedis();
+
 }
