@@ -1,4 +1,4 @@
-package fr.sithey.sharpheberg.sharpapi.modules;
+package fr.sithey.sharpheberg.sharpapi.module;
 
 public interface Module {
 
